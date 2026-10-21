@@ -1,1 +1,2 @@
-print('hi from black')
+def f(x):
+    print('hello black')
